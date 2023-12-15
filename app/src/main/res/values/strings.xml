@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Unique Identifiers Harvester</string>
+    <string name="app_name_menu">UIDs Harvester</string>
+    <string name="menu_button">Menu button</string>
+    <string name="labelinfo_no_permission">No permissions received</string>
+    <string name="labelinfo_collecting">Collecting data…</string>
+    <string name="labelinfo_done">Done!</string>
+    <string name="labelinfo_waiting_permission">Waiting for permission from OS…</string>
+    <string name="hint_menubutton_open">Open menu</string>
+    <string name="hint_menubutton_close">Close menu</string>
+    <string name="saveto_dialog_title_file">Full path to a file</string>
+    <string name="saveto_dialog_title_http">An URL to POST to</string>
+    <string name="saveto_dialog_hint_file">Enter a full path to save the file</string>
+    <string name="saveto_dialog_hint_http">Enter an URL to save the file</string>
+    <string name="hint_copied_to_clipboard">Copied!</string>
+    <string name="hint_http_seding">Sending...</string>
+    <string name="hint_http_sent">Sent OK</string>
+    <string name="hint_http_error">Not sent, connectivity error</string>
+    <string name="hint_saved_file_to">Saved to </string>
+    <string name="saveto_dialog_save">Save</string>
+    <string name="saveto_dialog_cancel">Cancel</string>
+    <string name="about_app_text">This is the simple demo application for collecting every unique identifier possible of an android-based device in all ways possible. The goal of this app is to discover all the ways exist to find unique identifiers and collect them with one application.\n\nUpload and save processes of the data collected with this application can be automated with a simple instructions file. Refer to the documentation for this application for more information.</string>
+    <string name="eula_short">This program is free for personal, educational and/or non-profit usage. Provided \"AS IS\" without warranties as to performance, merchantability, data integrity and other warranties of any kind, either expressed or implied.</string>
+    <string name="about_version">Version</string>
+    <string name="hint_file_save_error">\"Error saving file \"</string>
+</resources>

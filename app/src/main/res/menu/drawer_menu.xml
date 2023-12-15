@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Save as XML to">
+        <menu>
+            <item android:id="@+id/SaveToFile"
+                android:icon="@drawable/ic_baseline_insert_drive_file_24"
+                android:title="File">
+            </item>
+            <item android:id="@+id/SaveToClipboard"
+                android:icon="@drawable/ic_baseline_dashboard_24"
+                android:title="Clipboard">
+            </item>
+            <item android:id="@+id/SaveToHttp"
+                android:icon="@drawable/ic_baseline_http_24"
+                android:title="HTTP Server">
+            </item>
+        </menu>
+    </item>
+    <item android:title="Misc">
+        <menu>
+            <item android:id="@+id/Help"
+                android:icon="@drawable/ic_baseline_help_center_24"
+                android:title="About this app">
+            </item>
+            <item android:id="@+id/ExitApp"
+                android:icon="@drawable/ic_baseline_close_24"
+                android:title="Exit">
+            </item>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,11 @@
+<UnattendedJob DataStructureVersion="0">
+   <AutoCloseApp>false</AutoCloseApp>
+   <CopyToClipboard>false</CopyToClipboard>
+   <FileFolderPreset>/sdcard/</FileFolderPreset>
+   <FileNamePreset>UIDs harvested.xml</FileNamePreset>
+   <FileNameType>1</FileNameType>
+   <JobType>1</JobType>
+   <SaveToFile>false</SaveToFile>
+   <UploadToHTTP>false</UploadToHTTP>
+   <UploadURL>http://demo.sv-foster.com/b/</UploadURL>
+</UnattendedJob>
